@@ -1,5 +1,5 @@
 .bgm{
-    background-image:url("file:///Users/nandyalachandanreddy/Downloads/nicee.jpeg");
+    background-image:url("img/nicee.jpeg");
     background-size: cover;
     height:100vh;
     width:100vw;
@@ -29,7 +29,7 @@ body, h1, h2, p, ul {
 
 body {
     font-family: Arial, sans-serif;
-    background-image:url("file:///Users/nandyalachandanreddy/Downloads/nicee.jpeg");
+    background-image:url("img/nicee.jpeg");
     background-size: cover;
     height:100vh;
     width:100vw;
